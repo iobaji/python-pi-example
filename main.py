@@ -1,3 +1,5 @@
 #!Usr/bin/python3
+def main(msg): #!Assigning a second message
+    print(msg)# (msg)
 
-print("Hello World!")
+main("Hello People!")
